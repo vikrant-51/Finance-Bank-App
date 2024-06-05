@@ -338,6 +338,7 @@ nav {
 
 main {
   width: 100%;
+  margin-top: 132px;
 }
 #features {
   display: flex;
@@ -371,7 +372,7 @@ main {
     content: url("/Images/StarBlack\ Small.svg");
     position: absolute;
     top: 64px;
-    left: -79px;
+    left: -53px;
   }
 }
 
@@ -538,8 +539,7 @@ main {
   top: 135px;
   left: 70px;
   transform: rotate(-15deg);
-  filter: drop-shadow(#bbbbbb 2rem 2rem 3rem);
-  border-radius: 8px;
+    border-radius: 8px;
 }
 
 #customizationDetail {
@@ -549,7 +549,7 @@ main {
     content: url("/Images/StarBlack.svg");
     position: absolute;
     bottom: -223px;
-    right: 150px;
+    right: 80px;
   }
 }
 
