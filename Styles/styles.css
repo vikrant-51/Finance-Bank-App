@@ -380,6 +380,7 @@ main {
 }
 
 #featuresDetails {
+  width: fit-content;
   position: relative;
   &::before {
     content: "";
