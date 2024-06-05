@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+
+@font-face {
+  font-family: "Clash Display";
+  src: url("../Styles/Fonts/clashDisplay/ClashDisplay-Variable.woff2")
+      format("woff2"),
+    url("../Styles/Fonts/clashDisplay/ClashDisplay-Variable.woff")
+      format("woff"),
+    url("../Styles/Fonts/clashDisplay/ClashDisplay-Variable.ttf")
+      format("truetype");
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}

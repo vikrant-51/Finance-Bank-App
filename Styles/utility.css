@@ -1,0 +1,82 @@
+/* .flex{
+  display: flex;
+} */
+
+button {
+  width: 180px;
+  height: 60px;
+  font-family: "Clash Display";
+  font-weight: 500;
+  font-size: 18px;
+  border-radius: 4px;
+  border: none;
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Clash Display";
+  font-weight: 500;
+  color: #000;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.logo{
+  font-family: "Plus Jakarta Sans";
+  font-weight: 700;
+  text-transform: lowercase;
+}
+
+/* for heading of main sections having similar styles */
+.headings {
+  margin: 33px 0;
+}
+
+.headings h1 {
+  margin: 0;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.headings h2 {
+  margin: 0;
+  margin-bottom: 8px;
+  font-weight: 500;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #ff5555;
+  letter-spacing: 3px;
+}
+.headings-m h2 {
+  margin-block: 20px;
+  font-weight: 600;
+  font-size: 28px;
+}
+
+/* For paragraphs */
+
+.bodyPara p {
+  font-weight: 500;
+  line-height: 28px;
+  opacity: 0.5;
+  margin: 0;
+  margin-bottom: 24px;
+}
+
+.phoneDisplay {
+  position: absolute;
+  top: 0;
+  left: 100px;
+  transform: rotate(15deg);
+}
+.phoneDisplay img {
+  filter: drop-shadow(#747474 2rem 2rem 3rem);
+}
+
+.opacity-50{
+  opacity: 0.5;
+}
